@@ -49,7 +49,7 @@ An intelligent, AI-powered quiz solver bot built with FastAPI and deployed on Hu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/23f3004176/hf-quiz-bot.git
+   git clone <repository-url>
    cd hf-quiz-bot
    ```
 
@@ -190,7 +190,7 @@ Key libraries used in this project:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source. Feel free to use and modify as needed.
 
 ## 🔗 Links
 
