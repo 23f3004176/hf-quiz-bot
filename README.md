@@ -9,7 +9,7 @@ pinned: false
 
 # 🤖 HF Quiz Bot
 
-An intelligent, AI-powered quiz solver bot built with FastAPI and deployed on Hugging Face Spaces. This bot leverages Google's Gemini 2.0 Flash Lite model and Playwright for web scraping to automatically analyze and solve various types of quiz questions.
+An intelligent, AI-powered quiz solver bot built with FastAPI and deployed on Hugging Face Spaces. This bot leverages Google's Gemini 2.5 Flash Lite model and Playwright for web scraping to automatically analyze and solve various types of quiz questions.
 
 ## ✨ Features
 
